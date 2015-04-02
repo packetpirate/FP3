@@ -5,6 +5,7 @@ For full description, see the project schedule [on Piazza.][piazza]
 
 ### Team Members
 <i>Darin Beaudreau</i> - [packetpirate](http://www.github.com/packetpirate)
+
 <i>Xiaoyang Li</i> - [XiaoyangLi1988](http://www.github.com/XiaoyangLi1988)
 
 ### A Team Name
