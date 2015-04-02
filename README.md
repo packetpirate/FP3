@@ -3,37 +3,22 @@ DUE April 2, 2015 Thursday (2015-04-02)
 
 For full description, see the project schedule [on Piazza.][piazza]
 
-<i>Edit this file to make your report!</i>
-
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+<i>Darin Beaudreau</i> - [packetpirate](http://www.github.com/packetpirate)
+<i>Xiaoyang Li</i> - [XiaoyangLi1988](http://www.github.com/XiaoyangLi1988)
 
 ### A Team Name
-for the purpose of creating a github group
+<i>Le Midnight Wannabes</i>
 
 ### Project Title
-10 words or fewer
+<i>Tune Traveler</i>
 
 ### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+We will implement the A* pathfinding algorithm to solve mazes or simply find the shortest path from A to B.
+The difference is that we will assign random musical notes to each "tile" in the grid, and those notes will be played
+if the "player" moves over them. So as the algorithm walks over the path it creates, a small song will be created.
+
+<b>WARNING: Randomly generated songs may sound like garbage.</b>
 
 ### Libraries You Plan to Use 
-as a group
-
-### How to Do and Submit this assignment
-
-1. To start, [**fork** this repository][forking].
-1. This assignment is just one README.md file, so you can edit it right in github.
-1. Modify the README.md file and [**commit**][ref-commit] changes.
-1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-
-<!-- Links -->
-[piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
-[markdown]: https://help.github.com/articles/markdown-basics/
-[forking]: https://guides.github.com/activities/forking/
-[ref-clone]: http://gitref.org/creating/#clone
-[ref-commit]: http://gitref.org/basic/#commit
-[ref-push]: http://gitref.org/remotes/#push
-[pull-request]: https://help.github.com/articles/creating-a-pull-request
-
+SGL (OpenGL), Portaudio
